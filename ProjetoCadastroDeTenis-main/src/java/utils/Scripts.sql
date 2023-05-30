@@ -21,5 +21,5 @@ CREATE TABLE Usuario(
 );
 
 
-INSERT Usuario(nomeUsuario, senhaUsuario, perfilUsuario, statusUsuario)
+INSERT INTO Usuario(nomeUsuario, senhaUsuario, perfilUsuario, statusUsuario)
 VALUES('Gustavo', '123', '01', true);
